@@ -78,7 +78,7 @@ public class Login extends AppCompatActivity {
                                 }
                             }
                         }
-                    });
+                    });;
                 }else {
                     Toast.makeText(getApplicationContext(), "All fields are required", Toast.LENGTH_SHORT).show();
                 }
